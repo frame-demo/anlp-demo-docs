@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Our framework oficial documentation Pages
 
+## Khalid TNAJI
 You can use the [editor on GitHub](https://github.com/frame-demo/anlp-demo-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -9,21 +10,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+How to use POSTagger
+IPos pos = POSFactogry.getImlp();
+pos.tag("example of a sentence");
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
