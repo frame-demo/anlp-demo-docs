@@ -1,4 +1,4 @@
-## Welcome to Our framework oficial documentation Pages
+## Framework oficial documentation Pages
 
 ## Khalid TNAJI
 You can use the [editor on GitHub](https://github.com/frame-demo/anlp-demo-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
